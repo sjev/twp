@@ -10,6 +10,12 @@ in most cases you won't even need to write your own low-level code, because of s
 [TradingWithPython](https://github.com/sjev/trading-with-python) library combines much of the functionality discussed in this course as a ready-to-use functions and will be used throughout the course. 
 [Pandas](https://pandas.pydata.org/) will provide you with all of the heavy-lifting power needed in data crunching.
 
+The course focuses as much as possible on hands-on examples of real problems involved in quantitative trading.  We will start with setting up developing environment and getting historic price data. After that we will backtest a couple of  typical trading strategies.  Theoretical part (math & computer science) will  be kept to a minimum and only treated where needed.
+
+We will start by setting up a Python environment and get a basic feel of the language. Then we will jump right in and use case studies to get accustomed to working with data aalysis and strategy development.
+
+
+
 
 ## Course contents
 
